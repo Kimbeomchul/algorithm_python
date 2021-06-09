@@ -2,3 +2,8 @@
 
 ### https://solved.ac/profile/mickey1102
 
+
+
+#### 메모이제이션
+from functools import lru_cache
+@lru_cache(maxsize = None)
