@@ -1,6 +1,12 @@
 ## 코딩테스트 연습쟝 ...
 
 ### https://solved.ac/profile/mickey1102
+### Programmers // 2021-06-13
+BeomChul Kim
+순위3083
+획득한 점수1363
+해결한 문제 수84
+
 
 
 
