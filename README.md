@@ -40,3 +40,8 @@ list(reduce(lambda x, y: x+y, my_list))
 from functools import reduce
 import operator
 list(reduce(operator.add, my_list))
+
+
+
+### itertools product
+zip으로 구현하지말고 product ㄲ_ㄲ 
